@@ -2,7 +2,7 @@
 ## Hi :vulcan_salute: My name Julia. Welcome To My GitHub ✨
 
 
-<img alt="Night Coding" src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47fojw3hv425o1og22bdk3u9wvjq9sd5dnbup4h2je&rid=giphy.gif&ct=g" width="430" height="480" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47fojw3hv425o1og22bdk3u9wvjq9sd5dnbup4h2je&rid=giphy.gif&ct=g" width="400" height="450" align="right"/>
 
 + :star2: I'm a student on QA course by Vadim Ksendzov [My homework](https://github.com/JuliaMarche/QA_Hard_skills) 
 + :seedling: I'm trying to program in python
