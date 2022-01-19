@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/JuliaMarche/About_me/blob/main/Juju/imgonlin3e-com-ua-Resize-u6ASmFe3pXud.jpg?raw=true" alt="My Logo"  />
-</div>
 
 ## Hi :vulcan_salute: My name Julia. Welcome To My GitHub ✨
 
