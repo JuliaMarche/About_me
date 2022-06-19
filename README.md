@@ -4,7 +4,8 @@
 
 <img alt="Night Coding" src="https://media0.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e47fojw3hv425o1og22bdk3u9wvjq9sd5dnbup4h2je&rid=giphy.gif&ct=g" width="450" height="490" align="right"/>
 
-+ :star2: I'm a student on QA course by Vadim Ksendzov [My homework](https://github.com/JuliaMarche/QA_Hard_skills) 
++ :star2: I'm a QA Enginner at Kraud  
++ ✨ I took a QA course by Vadim Ksendzov [My homework](https://github.com/JuliaMarche/QA_Hard_skills) 
 + :seedling: I'm trying to program in python
 + :last_quarter_moon_with_face: I'm learning English
 + :new_moon_with_face: In my free time, I make a donut :doughnut: in Blender
